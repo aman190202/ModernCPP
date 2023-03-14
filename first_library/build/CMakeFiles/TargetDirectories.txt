@@ -1,0 +1,4 @@
+/Users/aman/Developer/moderncpp/first_library/build/CMakeFiles/tools.dir
+/Users/aman/Developer/moderncpp/first_library/build/CMakeFiles/main.dir
+/Users/aman/Developer/moderncpp/first_library/build/CMakeFiles/edit_cache.dir
+/Users/aman/Developer/moderncpp/first_library/build/CMakeFiles/rebuild_cache.dir
