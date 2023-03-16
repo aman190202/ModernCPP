@@ -1,1 +1,4 @@
 *.gitignore
+/first_library/main
+*.a
+*.o

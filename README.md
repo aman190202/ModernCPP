@@ -1,7 +1,8 @@
 # Modern CPP 
 ## By Ignacio Vizzo and Cyrill Stachniss
 
-### Use Modules and libraries
+### Method 1
+#### Use Modules and libraries
 
 1. Compile Modules
 
@@ -25,4 +26,19 @@ c++ -std=c++17 main.cpp -L . -ltools -o main
 
 ```
 ./main
+```
+### Method 2
+
+#### Using CMake
+
+1. Make a **CMakeLists.txt** in your project folder.
+2. Check out <a href="first_library/CMakeLists.txt">this</a>
+3. 
+
+```
+mkdir build
+cd build
+ls
+cmake . .
+make
 ```
